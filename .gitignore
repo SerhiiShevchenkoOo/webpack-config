@@ -1,0 +1,20 @@
+# Отладочные журналы npm
+*.log
+# Зависимости проекта
+/node_modules/
+# Атрибуты папки OSX
+.DS_Store
+# Временные файлы
+*.tmp
+#  сборкa
+/dist/
+# git
+/.git
+#vs
+/.vscode/
+package-lock.json
+# txt
+/*.txt
+# ! - кроме
+
+
